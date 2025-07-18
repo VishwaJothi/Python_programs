@@ -3,4 +3,4 @@
 # print(a+b)
 def addition(a,b):
     return a+b
-print("Addition:",addition(5+10))
+print("Addition:",addition(5,10))
